@@ -1,6 +1,7 @@
 import React from 'react';
 import './Header.css'
 
+// 无状态组件
 const MyHeader = (props)=>{
     // 样式 复合样式使用驼峰命名
     const style = {
